@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-url: www.smedia.siteleaf.net
+siteurl: www.smedia.siteleaf.net
