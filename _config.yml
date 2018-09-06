@@ -33,8 +33,7 @@ defaults:
   values:
     layout: page
 permalink: pretty
-url: http://pwacafe.siteleaf.net
-baseurl: ""
+url: pwacafe.siteleaf.net
 catagories:
 - restaurant
 - coffeeshop
