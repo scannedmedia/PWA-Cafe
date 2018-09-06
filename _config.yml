@@ -11,6 +11,9 @@ collections:
   barber:
     title: barber
     output: true
+  coffeeshop:
+    title: coffeeshop
+    output: true
   mechanic:
     title: mechanic
     output: true
