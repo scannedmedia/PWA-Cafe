@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-siteurl: www.smedia.siteleaf.net
+baseurl: pwacafe.siteleaf.net
