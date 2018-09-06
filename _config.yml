@@ -34,3 +34,8 @@ defaults:
     layout: page
 permalink: pretty
 siteurl: www.smedia.siteleaf.net
+catagories:
+- restaurant
+- coffeeshop
+- mechanic
+- barber
