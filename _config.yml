@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  restaurant:
+    title: restaurant
+    output: true
 defaults:
 - scope:
     path: ''
