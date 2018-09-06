@@ -33,7 +33,7 @@ defaults:
   values:
     layout: page
 permalink: pretty
-url: http://pwacafe.siteleaf.net
+url: pwacafe.siteleaf.net
 baseurl: ""
 catagories:
 - restaurant
