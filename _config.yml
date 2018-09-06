@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+  barber:
+    title: barber
+    output: true
+  mechanic:
+    title: mechanic
+    output: true
   restaurant:
     title: restaurant
     output: true
@@ -24,4 +30,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-baseurl: pwacafe.siteleaf.net
+siteurl: www.smedia.siteleaf.net
