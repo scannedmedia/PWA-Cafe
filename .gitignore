@@ -1,0 +1,6 @@
+# Ignore the Site directory
+/site/
+
+# ignore the Gemfiles for local rendering
+.gemfile
+.gemfile.lock
